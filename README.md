@@ -3,4 +3,4 @@
 💻 Skills: Python, HTML/CSS\
 🚀 Goals: Keep improving in coding, work on impactful projects\
 📚 Learning: Software development, algorithms\
-🌱 Open to: Collaborating and learning from others\
+🌱 Open to: Collaborating and learning from others
